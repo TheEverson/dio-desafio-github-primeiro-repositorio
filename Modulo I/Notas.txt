@@ -1,0 +1,16 @@
+Terminal Comandos:
+	-dir (Listam os itens)
+	-cd (Acessa uma pasta específica)
+		ex: cd/windows
+	-cd .. (volta pastas)
+	-cls (Limpa o terminal)
+	-tab (Auto completa textos )
+		ex: cd/w   tab    (ele preenche a pasta com w)
+	-mkdir (Cria pasta)
+		ex: mkdir nomedapasta
+	-echo (printa o que digitou)
+		ex: echo Hello > hello.txt (Cria um notepad com o texto Hello)
+	- del (deleta os arquivos de uma pasta)
+		ex: del nomedapasta
+	-rmdir (deleta uma pasta dentro de uma pasta)
+	
